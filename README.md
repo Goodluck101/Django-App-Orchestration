@@ -76,5 +76,5 @@ Python need to be installed
 
 ## Support
 
-For support, email ashwindibu@gmail.com .
+For support, email ekeomaadiole@gmail.com .
 
